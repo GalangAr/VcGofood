@@ -12,4 +12,5 @@ $ git clone https://github.com/GalangAr/VcGofood
 # Cara Menjalankan
 
 $ cd CvGofood
+
 $ php CvGofood.php
